@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "name": "黄金元宝派",
+      "gid": "group_001",
+      "invite_link": "https://t.me/group1"
+    },
+    {
+      "name": "白银元宝派",
+      "gid": "group_002", 
+      "invite_link": "https://t.me/group2"
+    },
+    {
+      "name": "翡翠元宝派",
+      "gid": "group_003",
+      "invite_link": "https://t.me/group3"
+    }
+  ]
+}
